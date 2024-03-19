@@ -1,0 +1,6 @@
+dist
+.eslintrc.js
+.prettierrc.js
+node_modules
+jest.config.cjs
+babel.config.cjs
